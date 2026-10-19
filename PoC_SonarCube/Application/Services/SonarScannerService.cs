@@ -5,7 +5,7 @@ using System.Text;
 namespace PoC_SonarCube.Application.Services
 {
     //Analisa o codigo com o SonarScanner, que envia os resultados para o SonarQube
-    public class SonnarScannerService(RunnerService runner, IOptions<SonarOptions> options)
+    public class SonarScannerService(RunnerService runner, IOptions<SonarOptions> options)
     {
         public async Task AnalyzeAsync(string workDir, string sha, string? solution, CancellationToken ct)
         {

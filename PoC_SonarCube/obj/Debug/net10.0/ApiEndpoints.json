@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "PoC_SonarCube.Controllers.ComplexityAnalyzeController",
+    "Method": "Listar",
+    "RelativePath": "api/ComplexityAnalyze",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoC_SonarCube.Controllers.ComplexityAnalyzeController",
+    "Method": "ObterPorSha",
+    "RelativePath": "api/ComplexityAnalyze/{sha}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sha",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoC_SonarCube.Controllers.ComplexityAnalyzeController",
+    "Method": "Analisar",
+    "RelativePath": "api/ComplexityAnalyze/AnalyzeCommit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "PoC_SonarCube.DTOs.AnalisysDto.AnalysisRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PoC_SonarCube.DTOs.CommitsDto.CommitReportDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 ﻿namespace PoC_SonarCube.DTOs.FileDto
 {
-    public class FileMetrics
+    public class FileMetricsDto
     {
         public string Path { get; set; }
         public int Complexity { get; set; }

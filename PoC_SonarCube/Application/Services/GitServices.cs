@@ -2,7 +2,7 @@
 
 namespace PoC_SonarCube.Application.Services
 {
-    public class GitServives(RunnerService runner)
+    public class GitServices(RunnerService runner)
     {
 
         //Usuado como base de comparacao quando nao haver o primeiro commit no repositorio

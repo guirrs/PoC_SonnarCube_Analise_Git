@@ -1,53 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\",
+  "WorkspaceRootPath": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcubemns\\poc_sonarcube\\poc_sonarcube.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\poc_sonarcube.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcubemns\\poc_sonarcube\\application\\services\\sonnarscannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\application\\services\\sonnarscannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\controllers\\complexityanalyzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\controllers\\complexityanalyzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcubemns\\poc_sonarcube\\application\\services\\gitservives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\application\\services\\gitservives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\application\\services\\commitanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\application\\services\\commitanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcubemns\\poc_sonarcube\\application\\services\\runnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\application\\services\\runnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcubemns\\poc_sonarcube\\dtos\\analisysdto\\analisysrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\dtos\\analisysdto\\analisysrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcubemns\\poc_sonarcube\\dtos\\analisysdto\\complexitymetricsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\dtos\\analisysdto\\complexitymetricsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcubemns\\poc_sonarcube\\dtos\\commitsdto\\commitanalysisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\dtos\\commitsdto\\commitanalysisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\dtos\\commitsdto\\commitanalysisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcubemns\\poc_sonarcube\\dtos\\filedto\\filemetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\dtos\\filedto\\filemetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\dtos\\commitsdto\\commitreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\dtos\\commitsdto\\commitreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcubemns\\poc_sonarcube\\dtos\\filedto\\filedelta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\dtos\\filedto\\filedelta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\dtos\\filedto\\filedeltadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\dtos\\filedto\\filedeltadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcubemns\\poc_sonarcube\\application\\options\\sonaroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\application\\services\\resultstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\application\\services\\resultstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\application\\apis\\sonarclientapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\application\\apis\\sonarclientapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\dtos\\filedto\\filemetricsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\dtos\\filedto\\filemetricsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\dtos\\analisysdto\\complexitymetricsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\dtos\\analisysdto\\complexitymetricsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\application\\services\\sonarscannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\application\\services\\sonarscannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\application\\services\\gitservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\application\\services\\gitservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\poc_sonarcube.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\poc_sonarcube.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\application\\services\\runnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\application\\services\\runnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\dtos\\analisysdto\\analysisrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\dtos\\analisysdto\\analysisrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\application\\options\\sonaroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\application\\options\\sonaroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcubemns\\poc_sonarcube\\poc_sonarcube.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\poc_sonarcube.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\poc_sonarcube.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcubemns\\poc_sonarcube\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|c:\\users\\46336142825\\desktop\\poc_sonarcube\\poc_sonarcube\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4E971CD9-20EF-CAFC-55B3-8C19B9DC3BAF}|PoC_SonarCube\\PoC_SonarCube.csproj|solutionrelative:poc_sonarcube\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -58,50 +82,131 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PoC_SonarCube",
-              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\PoC_SonarCube.csproj",
-              "RelativeDocumentMoniker": "PoC_SonarCube\\PoC_SonarCube.csproj",
-              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\PoC_SonarCube.csproj",
-              "RelativeToolTip": "PoC_SonarCube\\PoC_SonarCube.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-16T13:57:32.32Z"
+              "DocumentIndex": 1,
+              "Title": "ComplexityAnalyzeController.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Controllers\\ComplexityAnalyzeController.cs",
+              "RelativeDocumentMoniker": "PoC_SonarCube\\Controllers\\ComplexityAnalyzeController.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Controllers\\ComplexityAnalyzeController.cs",
+              "RelativeToolTip": "PoC_SonarCube\\Controllers\\ComplexityAnalyzeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:50:03.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SonnarScannerService.cs",
-              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\Application\\Services\\SonnarScannerService.cs",
-              "RelativeDocumentMoniker": "PoC_SonarCube\\Application\\Services\\SonnarScannerService.cs",
-              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\Application\\Services\\SonnarScannerService.cs",
-              "RelativeToolTip": "PoC_SonarCube\\Application\\Services\\SonnarScannerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Program.cs",
+              "RelativeDocumentMoniker": "PoC_SonarCube\\Program.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Program.cs",
+              "RelativeToolTip": "PoC_SonarCube\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T13:54:35.498Z"
+              "WhenOpened": "2026-10-19T11:44:20.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommitReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\DTOs\\CommitsDto\\CommitReportDto.cs",
+              "RelativeDocumentMoniker": "PoC_SonarCube\\DTOs\\CommitsDto\\CommitReportDto.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\DTOs\\CommitsDto\\CommitReportDto.cs",
+              "RelativeToolTip": "PoC_SonarCube\\DTOs\\CommitsDto\\CommitReportDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:30:33.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GitServives.cs",
-              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\Application\\Services\\GitServives.cs",
-              "RelativeDocumentMoniker": "PoC_SonarCube\\Application\\Services\\GitServives.cs",
-              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\Application\\Services\\GitServives.cs",
-              "RelativeToolTip": "PoC_SonarCube\\Application\\Services\\GitServives.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAA5wCAAAABIAAAAAAAAAA==",
+              "Title": "CommitAnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\Services\\CommitAnalysisService.cs",
+              "RelativeDocumentMoniker": "PoC_SonarCube\\Application\\Services\\CommitAnalysisService.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\Services\\CommitAnalysisService.cs",
+              "RelativeToolTip": "PoC_SonarCube\\Application\\Services\\CommitAnalysisService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwEUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T13:25:31.773Z"
+              "WhenOpened": "2026-10-19T11:25:52.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "ResultStoreService.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\Services\\ResultStoreService.cs",
+              "RelativeDocumentMoniker": "PoC_SonarCube\\Application\\Services\\ResultStoreService.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\Services\\ResultStoreService.cs",
+              "RelativeToolTip": "PoC_SonarCube\\Application\\Services\\ResultStoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T11:22:48.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SonarClientAPI.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\APIs\\SonarClientAPI.cs",
+              "RelativeDocumentMoniker": "PoC_SonarCube\\Application\\APIs\\SonarClientAPI.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\APIs\\SonarClientAPI.cs",
+              "RelativeToolTip": "PoC_SonarCube\\Application\\APIs\\SonarClientAPI.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowFUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T10:49:57.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PoC_SonarCube",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\PoC_SonarCube.csproj",
+              "RelativeDocumentMoniker": "PoC_SonarCube\\PoC_SonarCube.csproj",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\PoC_SonarCube.csproj",
+              "RelativeToolTip": "PoC_SonarCube\\PoC_SonarCube.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-16T13:57:32.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SonarScannerService.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\Services\\SonarScannerService.cs",
+              "RelativeDocumentMoniker": "PoC_SonarCube\\Application\\Services\\SonarScannerService.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\Services\\SonarScannerService.cs",
+              "RelativeToolTip": "PoC_SonarCube\\Application\\Services\\SonarScannerService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:54:35.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GitServices.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\Services\\GitServices.cs",
+              "RelativeDocumentMoniker": "PoC_SonarCube\\Application\\Services\\GitServices.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\Services\\GitServices.cs",
+              "RelativeToolTip": "PoC_SonarCube\\Application\\Services\\GitServices.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:25:31.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "RunnerService.cs",
-              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\Application\\Services\\RunnerService.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\Services\\RunnerService.cs",
               "RelativeDocumentMoniker": "PoC_SonarCube\\Application\\Services\\RunnerService.cs",
-              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\Application\\Services\\RunnerService.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\Services\\RunnerService.cs",
               "RelativeToolTip": "PoC_SonarCube\\Application\\Services\\RunnerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,71 +214,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "CommitAnalysisDto.cs",
-              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\DTOs\\CommitsDto\\CommitAnalysisDto.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\DTOs\\CommitsDto\\CommitAnalysisDto.cs",
               "RelativeDocumentMoniker": "PoC_SonarCube\\DTOs\\CommitsDto\\CommitAnalysisDto.cs",
-              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\DTOs\\CommitsDto\\CommitAnalysisDto.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\DTOs\\CommitsDto\\CommitAnalysisDto.cs",
               "RelativeToolTip": "PoC_SonarCube\\DTOs\\CommitsDto\\CommitAnalysisDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T13:04:57.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ComplexityMetricsDto.cs",
-              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\DTOs\\AnalisysDto\\ComplexityMetricsDto.cs",
-              "RelativeDocumentMoniker": "PoC_SonarCube\\DTOs\\AnalisysDto\\ComplexityMetricsDto.cs",
-              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\DTOs\\AnalisysDto\\ComplexityMetricsDto.cs",
-              "RelativeToolTip": "PoC_SonarCube\\DTOs\\AnalisysDto\\ComplexityMetricsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T13:04:02.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AnalisysRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\DTOs\\AnalisysDto\\AnalisysRequestDto.cs",
-              "RelativeDocumentMoniker": "PoC_SonarCube\\DTOs\\AnalisysDto\\AnalisysRequestDto.cs",
-              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\DTOs\\AnalisysDto\\AnalisysRequestDto.cs",
-              "RelativeToolTip": "PoC_SonarCube\\DTOs\\AnalisysDto\\AnalisysRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T13:03:17.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FileMetrics.cs",
-              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\DTOs\\FileDto\\FileMetrics.cs",
-              "RelativeDocumentMoniker": "PoC_SonarCube\\DTOs\\FileDto\\FileMetrics.cs",
-              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\DTOs\\FileDto\\FileMetrics.cs",
-              "RelativeToolTip": "PoC_SonarCube\\DTOs\\FileDto\\FileMetrics.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T13:01:41.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FileDelta.cs",
-              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\DTOs\\FileDto\\FileDelta.cs",
-              "RelativeDocumentMoniker": "PoC_SonarCube\\DTOs\\FileDto\\FileDelta.cs",
-              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\DTOs\\FileDto\\FileDelta.cs",
-              "RelativeToolTip": "PoC_SonarCube\\DTOs\\FileDto\\FileDelta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T13:00:40.684Z"
+              "WhenOpened": "2026-10-16T13:04:57.306Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ComplexityMetricsDto.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\DTOs\\AnalisysDto\\ComplexityMetricsDto.cs",
+              "RelativeDocumentMoniker": "PoC_SonarCube\\DTOs\\AnalisysDto\\ComplexityMetricsDto.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\DTOs\\AnalisysDto\\ComplexityMetricsDto.cs",
+              "RelativeToolTip": "PoC_SonarCube\\DTOs\\AnalisysDto\\ComplexityMetricsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:04:02.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AnalysisRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\DTOs\\AnalisysDto\\AnalysisRequestDto.cs",
+              "RelativeDocumentMoniker": "PoC_SonarCube\\DTOs\\AnalisysDto\\AnalysisRequestDto.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\DTOs\\AnalisysDto\\AnalysisRequestDto.cs",
+              "RelativeToolTip": "PoC_SonarCube\\DTOs\\AnalisysDto\\AnalysisRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:03:17.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileMetricsDto.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\DTOs\\FileDto\\FileMetricsDto.cs",
+              "RelativeDocumentMoniker": "PoC_SonarCube\\DTOs\\FileDto\\FileMetricsDto.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\DTOs\\FileDto\\FileMetricsDto.cs",
+              "RelativeToolTip": "PoC_SonarCube\\DTOs\\FileDto\\FileMetricsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:01:41.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileDeltaDto.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\DTOs\\FileDto\\FileDeltaDto.cs",
+              "RelativeDocumentMoniker": "PoC_SonarCube\\DTOs\\FileDto\\FileDeltaDto.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\DTOs\\FileDto\\FileDeltaDto.cs",
+              "RelativeToolTip": "PoC_SonarCube\\DTOs\\FileDto\\FileDeltaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:00:40.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "SonarOptions.cs",
-              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\Application\\Options\\SonarOptions.cs",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\Options\\SonarOptions.cs",
               "RelativeDocumentMoniker": "PoC_SonarCube\\Application\\Options\\SonarOptions.cs",
-              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\Application\\Options\\SonarOptions.cs",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\Application\\Options\\SonarOptions.cs",
               "RelativeToolTip": "PoC_SonarCube\\Application\\Options\\SonarOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,11 +291,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "PoC_SonarCube.csproj",
-              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\PoC_SonarCube.csproj",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\PoC_SonarCube.csproj",
               "RelativeDocumentMoniker": "PoC_SonarCube\\PoC_SonarCube.csproj",
-              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\PoC_SonarCube.csproj",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\PoC_SonarCube.csproj",
               "RelativeToolTip": "PoC_SonarCube\\PoC_SonarCube.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -193,11 +303,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\appsettings.json",
               "RelativeDocumentMoniker": "PoC_SonarCube\\appsettings.json",
-              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\appsettings.json",
+              "ToolTip": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\appsettings.json",
               "RelativeToolTip": "PoC_SonarCube\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

@@ -1,0 +1,209 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "PoC_SonarCube",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/ComplexityAnalyze": {
+      "get": {
+        "tags": [
+          "ComplexityAnalyze"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ComplexityAnalyze/AnalyzeCommit": {
+      "post": {
+        "tags": [
+          "ComplexityAnalyze"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AnalysisRequestDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AnalysisRequestDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AnalysisRequestDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CommitReportDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CommitReportDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CommitReportDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/ComplexityAnalyze/{sha}": {
+      "get": {
+        "tags": [
+          "ComplexityAnalyze"
+        ],
+        "parameters": [
+          {
+            "name": "sha",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AnalysisRequestDto": {
+        "type": "object",
+        "properties": {
+          "repoPath": {
+            "type": "string",
+            "nullable": true
+          },
+          "commitSha": {
+            "type": "string",
+            "nullable": true
+          },
+          "solutionPath": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CommitReportDto": {
+        "type": "object",
+        "properties": {
+          "sha": {
+            "type": "string",
+            "nullable": true
+          },
+          "parentSha": {
+            "type": "string",
+            "nullable": true
+          },
+          "project": {
+            "$ref": "#/components/schemas/ComplexityMetricsDto"
+          },
+          "projectDelta": {
+            "$ref": "#/components/schemas/ComplexityMetricsDto"
+          },
+          "changedFiles": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/FileDeltaDto"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ComplexityMetricsDto": {
+        "type": "object",
+        "properties": {
+          "complexity": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "cognitiveComplexity": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ncloc": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "FileDeltaDto": {
+        "type": "object",
+        "properties": {
+          "path": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          },
+          "before": {
+            "$ref": "#/components/schemas/FileMetricsDto"
+          },
+          "after": {
+            "$ref": "#/components/schemas/FileMetricsDto"
+          },
+          "complexityDelta": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "cognitiveComplexityDelta": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "FileMetricsDto": {
+        "type": "object",
+        "properties": {
+          "path": {
+            "type": "string",
+            "nullable": true
+          },
+          "complexity": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "cognitiveComplexity": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "ComplexityAnalyze"
+    }
+  ]
+}

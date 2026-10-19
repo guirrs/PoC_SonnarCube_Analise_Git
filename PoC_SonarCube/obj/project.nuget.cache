@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7z/lKx/S2g4=",
+  "dgSpecHash": "F/vLcd541Rc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCubeMns\\PoC_SonarCube\\PoC_SonarCube.csproj",
+  "projectFilePath": "C:\\Users\\46336142825\\Desktop\\PoC_SonarCube\\PoC_SonarCube\\PoC_SonarCube.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\46336142825\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
     "C:\\Users\\46336142825\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
